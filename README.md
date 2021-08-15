@@ -1,3 +1,3 @@
 # Scraping-Cars
 ----------------
-In this project, we scrape the cars  content tab from https://www.cars.com/shopping/results/.
+In this project, we scrape the cars  dealer from https://www.cars.com/shopping/results/.
